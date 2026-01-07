@@ -48,4 +48,14 @@ When you **run the notebook**, the following visualizations will be generated:
 
 👉 **Yes, charts WILL appear when the code is executed properly.**
 
+INSIGHTS:
+
 git clone https://github.com/sanjuseervii/employee-attrition-analysis.git
+In this employee dataset 4563 employee are given and in this 1600 employers left the job 
+no of female employees left: 884
+no of male employees left: 716
+55% of female workers  has left job 
+90%employee from pune left job  and 50%employee from  new dehli left job 
+90% employee with masters degree and 50%employee from bachlors degree left job 
+Suggestion :the company  should give more flexibility or salary to the  employees in pune 
+company should give more safty facilities to females 
