@@ -49,13 +49,39 @@ When you **run the notebook**, the following visualizations will be generated:
 👉 **Yes, charts WILL appear when the code is executed properly.**
 
 INSIGHTS:
+📊 Key Insights from Employee Attrition Analysis
 
-git clone https://github.com/sanjuseervii/employee-attrition-analysis.git
-In this employee dataset 4563 employee are given and in this 1600 employers left the job 
-no of female employees left: 884
-no of male employees left: 716
-55% of female workers  has left job 
-90%employee from pune left job  and 50%employee from  new dehli left job 
-90% employee with masters degree and 50%employee from bachlors degree left job 
-Suggestion :the company  should give more flexibility or salary to the  employees in pune 
-company should give more safty facilities to females 
+The dataset consists of 4,563 employees, out of which 1,600 employees left the organization, indicating a high overall attrition rate.
+
+Out of the total employees who left:
+
+884 were female
+
+716 were male
+
+Female employees show a higher attrition trend, with approximately 55% of female employees leaving, suggesting potential concerns related to workplace safety, flexibility, or work-life balance.
+
+Location-based analysis reveals critical issues:
+
+Around 90% of employees from Pune left the organization, indicating severe dissatisfaction or unfavorable working conditions at this location.
+
+Approximately 50% of employees from New Delhi also left, which is comparatively lower but still significant.
+
+Education level plays a major role in attrition:
+
+Nearly 90% of employees holding a Master’s degree left the job, suggesting a possible mismatch between job roles and employee expectations.
+
+About 50% of employees with a Bachelor’s degree left, indicating better retention compared to Master’s degree holders.
+Actionable Recommendations 
+
+The company should improve salary structure, job roles, or work flexibility, especially for employees working in Pune, to reduce the extremely high attrition rate.
+
+Enhanced safety measures, flexible working hours, and supportive workplace policies should be implemented to improve retention among female employees.
+
+For highly educated employees (Master’s degree holders), the company should provide:
+
+Better career growth opportunities
+
+Challenging roles
+
+Skill-utilization aligned with their qualifications
